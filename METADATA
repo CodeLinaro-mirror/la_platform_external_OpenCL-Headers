@@ -1,0 +1,15 @@
+name: "OpenCL-Headers"
+description:
+    "OpenCL Headers"
+
+third_party {
+homepage: "https://github.com/KhronosGroup/OpenCL-Headers"
+  identifier {
+    type: "Archive"
+    value: "https://github.com/KhronosGroup/OpenCL-Headers"
+    primary_source: true
+  }
+  version: "v2023.12.14"
+  last_upgrade_date { year: 2024 month: 2 day: 22 }
+  license_type: NOTICE
+}
