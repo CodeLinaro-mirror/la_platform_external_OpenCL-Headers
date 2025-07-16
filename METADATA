@@ -8,14 +8,14 @@ third_party {
   license_type: NOTICE
   last_upgrade_date {
     year: 2025
-    month: 6
-    day: 13
+    month: 7
+    day: 4
   }
   homepage: "https://github.com/KhronosGroup/OpenCL-Headers"
   identifier {
     type: "Archive"
     value: "https://github.com/KhronosGroup/OpenCL-Headers"
-    version: "v2025.06.13"
+    version: "b79b358ff6b9998d3fc65a5f55083db3d651d55d"
     primary_source: true
   }
 }
